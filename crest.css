@@ -403,3 +403,8 @@ body{
     height: 122px;
     top: 99px;
 }
+
+.wing .mainWing{
+    top: 136px;
+    right: 145px;
+}
